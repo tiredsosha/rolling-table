@@ -1,0 +1,551 @@
+Position_3: &3
+  angle: 3
+Position_6: &6
+  angle: 6
+Position_9: &9
+  angle: 9
+Position_10: &10
+  angle: 10
+Position_12: &12
+  angle: 12
+Position_15: &15
+  angle: 15
+Position_18: &18
+  angle: 18
+Position_20: &20
+  angle: 20
+Position_21: &21
+  angle: 21
+Position_24: &24
+  angle: 24
+Position_20: &27
+  angle: 27
+Position_30: &30
+  angle: 30
+Position_33: &33
+  angle: 33
+Position_36: &36
+  angle: 36
+Position_39: &39
+  angle: 39
+Position_40: &40
+  angle: 40
+Position_42: &42
+  angle: 42
+Position_45: &45
+  angle: 45
+Position_48: &48
+  angle: 48
+Position_50: &50
+  angle: 50
+Position_51: &51
+  angle: 51
+Position_54: &54
+  angle: 54
+Position_50: &57
+  angle: 57
+Position_60: &60
+  angle: 60
+Position_63: &63
+  angle: 63
+Position_66: &66
+  angle: 66
+Position_69: &69
+  angle: 69
+Position_70: &70
+  angle: 70
+Position_72: &72
+  angle: 72
+Position_75: &75
+  angle: 75
+Position_78: &78
+  angle: 78
+Position_80: &80
+  angle: 80
+Position_81: &81
+  angle: 81
+Position_84: &84
+  angle: 84
+Position_80: &87
+  angle: 87
+Position_90: &90
+  angle: 90
+Position_93: &93
+  angle: 93
+Position_96: &96
+  angle: 96
+Position_99: &99
+  angle: 99
+Position_100: &100
+  angle: 100
+Position_102: &102
+  angle: 102
+Position_105: &105
+  angle: 105
+Position_108: &108
+  angle: 108
+Position_110: &110
+  angle: 110
+Position_111: &111
+  angle: 111
+Position_114: &114
+  angle: 114
+Position_110: &117
+  angle: 117
+Position_120: &120
+  angle: 120
+Position_123: &123
+  angle: 123
+Position_126: &126
+  angle: 126
+Position_129: &129
+  angle: 129
+Position_130: &130
+  angle: 130
+Position_132: &132
+  angle: 132
+Position_135: &135
+  angle: 135
+Position_138: &138
+  angle: 138
+Position_140: &140
+  angle: 140
+Position_141: &141
+  angle: 141
+Position_144: &144
+  angle: 144
+Position_140: &147
+  angle: 147
+Position_150: &150
+  angle: 150
+Position_153: &153
+  angle: 153
+Position_156: &156
+  angle: 156
+Position_159: &159
+  angle: 159
+Position_160: &160
+  angle: 160
+Position_162: &162
+  angle: 162
+Position_165: &165
+  angle: 165
+Position_168: &168
+  angle: 168
+Position_170: &170
+  angle: 170
+Position_171: &171
+  angle: 171
+Position_174: &174
+  angle: 174
+Position_170: &177
+  angle: 177
+Position_180: &180
+  angle: 180
+Position_183: &183
+  angle: 183
+Position_186: &186
+  angle: 186
+Position_189: &189
+  angle: 189
+Position_190: &190
+  angle: 190
+Position_192: &192
+  angle: 192
+Position_195: &195
+  angle: 195
+Position_198: &198
+  angle: 198
+Position_200: &200
+  angle: 200
+Position_201: &201
+  angle: 201
+Position_204: &204
+  angle: 204
+Position_200: &207
+  angle: 207
+Position_210: &210
+  angle: 210
+Position_213: &213
+  angle: 213
+Position_216: &216
+  angle: 216
+Position_219: &219
+  angle: 219
+Position_220: &220
+  angle: 220
+Position_222: &222
+  angle: 222
+Position_225: &225
+  angle: 225
+Position_228: &228
+  angle: 228
+Position_230: &230
+  angle: 230
+Position_231: &231
+  angle: 231
+Position_234: &234
+  angle: 234
+Position_230: &237
+  angle: 237
+Position_240: &240
+  angle: 240
+Position_243: &243
+  angle: 243
+Position_246: &246
+  angle: 246
+Position_249: &249
+  angle: 249
+Position_250: &250
+  angle: 250
+Position_252: &252
+  angle: 252
+Position_255: &255
+  angle: 255
+Position_258: &258
+  angle: 258
+Position_260: &260
+  angle: 260
+Position_261: &261
+  angle: 261
+Position_264: &264
+  angle: 264
+Position_260: &267
+  angle: 267
+Position_270: &270
+  angle: 270
+Position_273: &273
+  angle: 273
+Position_276: &276
+  angle: 276
+Position_279: &279
+  angle: 279
+Position_280: &280
+  angle: 280
+Position_282: &282
+  angle: 282
+Position_285: &285
+  angle: 285
+Position_288: &288
+  angle: 288
+Position_290: &290
+  angle: 290
+Position_291: &291
+  angle: 291
+Position_294: &294
+  angle: 294
+Position_290: &297
+  angle: 297
+Position_300: &300
+  angle: 300
+Position_303: &303
+  angle: 303
+Position_306: &306
+  angle: 306
+Position_309: &309
+  angle: 309
+Position_310: &310
+  angle: 310
+Position_312: &312
+  angle: 312
+Position_315: &315
+  angle: 315
+Position_318: &318
+  angle: 318
+Position_320: &320
+  angle: 320
+Position_321: &321
+  angle: 321
+Position_324: &324
+  angle: 324
+Position_320: &327
+  angle: 327
+Position_330: &330
+  angle: 330
+Position_333: &333
+  angle: 333
+Position_336: &336
+  angle: 336
+Position_339: &339
+  angle: 339
+Position_340: &340
+  angle: 340
+Position_342: &342
+  angle: 342
+Position_345: &345
+  angle: 345
+Position_348: &348
+  angle: 348
+Position_350: &350
+  angle: 350
+Position_351: &351
+  angle: 351
+Position_354: &354
+  angle: 354
+Position_350: &357
+  angle: 357
+Position_350: &360
+  angle: 360
+Position_363: &363
+  angle: 363
+Position_366: &366
+  angle: 366
+Position_369: &369
+  angle: 369
+Position_370: &370
+  angle: 370
+Position_372: &372
+  angle: 372
+Position_375: &375
+  angle: 375
+Position_378: &378
+  angle: 378
+Position_380: &380
+  angle: 380
+
+exit:
+  angle:
+    - *180
+
+
+ten:
+  angle:
+    - *10
+    - *20
+    - *30
+    - *40
+    - *50
+    - *60
+    - *70
+    - *80
+    - *90
+    - *100
+    - *110
+    - *120
+    - *130
+    - *140
+    - *150
+    - *160
+    - *170
+    - *180
+    - *190
+    - *200
+    - *210
+    - *220
+    - *230
+    - *240
+    - *250
+    - *260
+    - *270
+    - *280
+    - *290
+    - *300
+    - *310
+    - *320
+    - *330
+    - *340
+    - *350
+    - *360
+    - *380
+
+three:
+  angle:
+    - *3
+    - *6
+    - *9
+    - *12
+    - *15
+    - *18
+    - *21
+    - *24
+    - *27
+    - *30
+    - *33
+    - *36
+    - *39
+    - *42
+    - *45
+    - *48
+    - *51
+    - *54
+    - *57
+    - *60
+    - *63
+    - *66
+    - *69
+    - *72
+    - *75
+    - *78
+    - *81
+    - *84
+    - *87
+    - *90
+    - *93
+    - *96
+    - *99
+    - *102
+    - *105
+    - *108
+    - *111
+    - *114
+    - *117
+    - *120
+    - *123
+    - *126
+    - *129
+    - *132
+    - *135
+    - *138
+    - *141
+    - *144
+    - *147
+    - *150
+    - *153
+    - *156
+    - *159
+    - *162
+    - *165
+    - *168
+    - *171
+    - *174
+    - *177
+    - *180
+    - *183
+    - *186
+    - *189
+    - *192
+    - *195
+    - *198
+    - *201
+    - *204
+    - *207
+    - *210
+    - *213
+    - *216
+    - *219
+    - *222
+    - *225
+    - *228
+    - *231
+    - *234
+    - *237
+    - *240
+    - *243
+    - *246
+    - *249
+    - *252
+    - *255
+    - *258
+    - *261
+    - *264
+    - *267
+    - *270
+    - *273
+    - *276
+    - *279
+    - *282
+    - *285
+    - *288
+    - *291
+    - *294
+    - *297
+    - *300
+    - *303
+    - *306
+    - *309
+    - *312
+    - *315
+    - *318
+    - *321
+    - *324
+    - *327
+    - *330
+    - *333
+    - *336
+    - *339
+    - *342
+    - *345
+    - *348
+    - *351
+    - *354
+    - *357
+    - *360
+    - *363
+    - *366
+    - *369
+    - *370
+
+six:
+  angle:
+    - *6
+    - *12
+    - *18
+    - *24
+    - *30
+    - *36
+    - *42
+    - *48
+    - *54
+    - *60
+    - *66
+    - *72
+    - *78
+    - *84
+    - *90
+    - *96
+    - *102
+    - *108
+    - *114
+    - *120
+    - *126
+    - *132
+    - *138
+    - *144
+    - *150
+    - *156
+    - *162
+    - *168
+    - *174
+    - *180
+    - *186
+    - *192
+    - *198
+    - *204
+    - *210
+    - *216
+    - *222
+    - *228
+    - *234
+    - *240
+    - *246
+    - *252
+    - *258
+    - *264
+    - *270
+    - *276
+    - *282
+    - *288
+    - *294
+    - *300
+    - *306
+    - *312
+    - *318
+    - *324
+    - *330
+    - *336
+    - *342
+    - *348
+    - *354
+    - *360
+    - *366
+    - *372
+    - *378
+
+    
+
+
+
+    
+
+    
+    
